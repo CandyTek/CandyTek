@@ -14,6 +14,7 @@
 | [cs2-moyu · CS2 摸鱼切换器](https://github.com/CandyTek/cs2-moyu) | Windows | 在玩家死亡后自动切换到指定程序或发送快捷键，下一回合开始时自动切回游戏。 |
 | [FileSendApkExport · 文件传输工具](https://github.com/CandyTek/FileSendApkExport) | Windows | 与 Android 端 Apk kit / APK 导出工具配合，在局域网内互传文件，支持多文件传输和拖放。 |
 | [SettingsShortcut · 设置快捷方式](https://github.com/CandyTek/SettingsShortcut) | Android | 快速打开常用系统设置项，无需申请任何权限。 |
+| [TesterScreenShots · 测试人员截图工具](https://github.com/CandyTek/TesterScreenShots) | Android | 测试人员测试设备时方便截图与分享的小工具，截图并附带日志。 |
 
 欢迎体验，也欢迎在对应项目的 Issues 中反馈问题或提出建议。
 
